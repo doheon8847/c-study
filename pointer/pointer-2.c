@@ -26,7 +26,7 @@ int main()
 
 	pi = &y;
 	printf("pi = %p\n", pi);
-	printf("*pi = &d\n", *pi);
+	printf("*pi = %d\n", *pi);
 	
 	
 	
